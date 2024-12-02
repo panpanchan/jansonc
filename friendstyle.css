@@ -1,0 +1,15 @@
+.left {
+	float: left;
+}
+
+.right {
+float: right;
+}
+
+.break {
+	clear: both;
+}
+
+body {
+	background-color: pink;
+}
